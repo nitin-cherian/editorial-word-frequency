@@ -10,6 +10,9 @@ name = "pypi"
 jupyter = "*"
 requests = "*"
 "beautifulsoup4" = "*"
+nltk = "*"
+seaborn = "*"
+matplotlib = "*"
 
 
 [dev-packages]
